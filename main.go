@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	pagename = "http://www.npp/"
+	pagename = "http://golang-book.ru"
 )
 
 type Page struct {
